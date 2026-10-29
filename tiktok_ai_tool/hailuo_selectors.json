@@ -1,0 +1,9 @@
+{
+  "_ghi_chu": "Giao diện web Hailuo thay đổi thường xuyên. Nếu công cụ báo không tìm thấy nút, hãy sửa các mục dưới đây (chỉ cần chữ hiển thị trên nút hoặc selector CSS).",
+  "start_url": "",
+  "file_input": "input[type=file]",
+  "prompt_box": "textarea",
+  "generate_button_texts": ["Create", "Generate", "Tạo", "生成"],
+  "result_video": "video",
+  "wait_result_seconds": 600
+}

@@ -1,0 +1,8 @@
+{
+  "gemini":     {"base_url": "https://generativelanguage.googleapis.com/v1beta/openai", "api_key_env": "GEMINI_API_KEY",     "model": "gemini-3-flash-preview", "vision": true},
+  "groq":       {"base_url": "https://api.groq.com/openai/v1",                          "api_key_env": "GROQ_API_KEY",       "model": "", "vision": false},
+  "openrouter": {"base_url": "https://openrouter.ai/api/v1",                            "api_key_env": "OPENROUTER_API_KEY", "model": "", "vision": false},
+  "mistral":    {"base_url": "https://api.mistral.ai/v1",                               "api_key_env": "MISTRAL_API_KEY",    "model": "", "vision": false},
+  "github":     {"base_url": "https://models.github.ai/inference",                      "api_key_env": "GITHUB_TOKEN",       "model": "", "vision": false},
+  "cerebras":   {"base_url": "https://api.cerebras.ai/v1",                              "api_key_env": "CEREBRAS_API_KEY",   "model": "", "vision": false}
+}

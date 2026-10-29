@@ -1,0 +1,5 @@
+pillow>=10.0
+requests>=2.31
+python-dotenv>=1.0
+# Tuỳ chọn - chỉ cài khi dùng:
+# torch diffusers transformers accelerate imageio imageio-ffmpeg ftfy   # provider = wan_local
