@@ -1,0 +1,10 @@
+các bước cài 
+cd C:\đường\dẫn\đến\thư_mục_công_cụ
+
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+copy .env.example .en
+     sau khi cài 
+.venv\Scripts\activate
+python gui.py
